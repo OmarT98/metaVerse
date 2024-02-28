@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  base: '/metaverse13/',
+  output: 'export',
 };
 
 module.exports = nextConfig;
