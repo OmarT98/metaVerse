@@ -4,7 +4,7 @@
 
 ## Technologies Used
 
-- Next 13
+- Next JS
 - Framer Motion
 - Tailwind CSS
 
